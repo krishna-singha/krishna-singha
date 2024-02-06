@@ -13,7 +13,7 @@
 </h1>
 
 <p align="center"> 
-  <b>「 I am a frontend web application developer from <b>India</b> 」</b>
+  <b>「 I am a full-stack web application developer from <b>India</b> 」</b>
 </p>
 <br>
 
@@ -21,7 +21,7 @@
  <a href="https://linkedin.com/in/krishnasingha" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Krishna Singha"/>
  </a>
- <a href="https://instagram.com/krishna-singha" target="_blank">
+ <a href="https://www.instagram.com/krishna___singha" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Krishna Singha"/>
  </a> 
  <a href="https://facebook.com/krishnasingha426" target="_blank">
@@ -37,13 +37,14 @@
 <p>
     <img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="400px" height="300px">
     🌐 &emsp; Web Dev Enthusiast | Crafting the Digital Experience <br><br>
-    ✌️ &emsp; Enjoy to do programming and sharing knowledge <br><br>
     ❤️ &emsp; Love to writing code and learning new features <br><br>
+    🌐 &emsp; Check out my portfolio <a href="https://ksingha.design">Live</a> <br><br>
+    📫 &emsp; How to reach me: <a href="mailto:krishnasingha.dev@gmail.com">krishnasingha.dev@gmail.com</a> <br><br>
     🚀 &emsp; Let's connect and build something amazing together! <br><br>
-    
 </p>
 
 ## 💻 Use To Code:
+
 
 <br>
 
@@ -72,6 +73,9 @@
   <!-- React -->
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" width="60px"/>
 
+  <!-- Npm -->
+  <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="Npm" width="60px"/>
+  
   <!-- NodeJS -->
   <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="NodeJS" width="60px"/>
 
@@ -95,6 +99,12 @@
 
   <!-- GitHub -->
   <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" width="60px"/>
+  
+  <!-- VS-Code -->
+  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS-Code" width="52px"/>
+  
+  <!-- Postman -->
+  <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" width="52px"/>
 </p>
 
 <br>
@@ -122,7 +132,7 @@
 
 ## 🤝 Collaboration & Contribution:
 
-- <p>I am actively seeking opportunities for collaboration, particularly in the realm of <b>[Frontend Web Developement]</b>.</p>
+- <p>I am actively seeking opportunities for collaboration, particularly in the realm of <b>[Web Developement]</b>.</p>
 
 <br>
 
