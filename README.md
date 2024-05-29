@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
- <a href="https://linkedin.com/in/krishnasingha" target="_blank">
+ <a href="https://linkedin.com/in/krishnasingha/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Krishna Singha"/>
  </a>
  <a href="https://www.instagram.com/krishna___singha" target="_blank">
@@ -73,6 +73,12 @@
   <!-- React -->
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" width="60px"/>
 
+  <!-- Next.js -->
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="60px" />
+  
+  <!-- Redux -->
+  <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" width="60px" />
+
   <!-- Npm -->
   <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="Npm" width="60px"/>
   
@@ -84,6 +90,24 @@
 
   <!-- MongoDB -->
   <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" width="60px"/>
+  
+  <!-- Vite -->
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="MongoDB" width="60px"/>
+  
+  <!-- Firebase -->
+  <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="MongoDB" width="60px"/>
+  
+  <!-- Auth0 -->
+  <img src="https://cdn.brighttalk.com/ams/california/images/channel/19357/image_840418.png" alt="MongoDB" width="60px"/>
+  
+  <!-- Rest api -->
+  <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="MongoDB" width="60px"/>
+  
+  <!-- Figma -->
+  <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="MongoDB" width="60px"/>
+  
+  <!-- Canva -->
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="MongoDB" width="60px"/>
 
   <!-- C -->
   <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" width="60px"/>
@@ -105,6 +129,9 @@
   
   <!-- Postman -->
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" width="52px"/>
+  
+  <!-- Arduino -->
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Postman" width="52px"/>
 </p>
 
 <br>
