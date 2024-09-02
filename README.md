@@ -38,7 +38,7 @@
     <img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="400px" height="300px">
     🌐 &emsp; Web Dev Enthusiast | Crafting the Digital Experience <br><br>
     ❤️ &emsp; Love to writing code and learning new features <br><br>
-    🌐 &emsp; Check out my portfolio <a href="https://ksingha.design">Live</a> <br><br>
+    🌐 &emsp; Check out my portfolio <a href="https://krishnasingha.wiki">Live</a> <br><br>
     📫 &emsp; How to reach me: <a href="mailto:krishnasingha.dev@gmail.com">krishnasingha.dev@gmail.com</a> <br><br>
     🚀 &emsp; Let's connect and build something amazing together! <br><br>
 </p>
