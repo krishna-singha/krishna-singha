@@ -31,24 +31,26 @@
 <br><br>
 
 <!-- About Section -->
+
 # About me
 
 <br>
-<p>
-    <img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="400px" height="300px">
+<div>
+    <img align="right" src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/giphy.webp" alt="Coder GIF" width="400px" height="300px">
     🌐 &emsp; Web Dev Enthusiast | Crafting the Digital Experience <br><br>
     ❤️ &emsp; Love to writing code and learning new features <br><br>
     🌐 &emsp; Check out my portfolio <a href="https://krishnasingha.wiki">Live</a> <br><br>
     📫 &emsp; How to reach me: <a href="mailto:krishnasingha.dev@gmail.com">krishnasingha.dev@gmail.com</a> <br><br>
     🚀 &emsp; Let's connect and build something amazing together! <br><br>
-</p>
-
-## 💻 Use To Code:
-
+</div>
 
 <br>
 
-<p>
+## 💻 Use To Code:
+
+<br>
+
+<div>
   <!-- HTML -->
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML5" width="60px"/>
 
@@ -132,30 +134,36 @@
   
   <!-- Arduino -->
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Postman" width="52px"/>
-</p>
+</div>
 
 <br>
 
 ## 📊 My GitHub Stats:
+
 <br>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/krishna-singha">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-singha&theme=radical&hide_border=false" alt="Krishna's GitHub streak"/>
   </a>
-</p>
+</div>
 
 <br>
 
-<p>
+<div align="center>
   <a href="https://github.com/krishna-singha">
     <img alt="Krishna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=krishna-singha&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="192px" width="49.5%"/>
   </a>
   <a href="https://github.com/krishna-singha">
     <img alt="Krishna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-singha&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="192px" width="49.5%"/>
   </a>
-</p>
-<br>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/krishna-singha/krishna-singha/output/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🤝 Collaboration & Contribution:
 
@@ -166,4 +174,3 @@
 **Happy coding! 🚀**
 
 <br>
-
