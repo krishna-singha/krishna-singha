@@ -161,10 +161,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/krishna-singha/krishna-singha/output/snake.svg" alt="Snake animation" />
-</div>
-
 ## 🤝 Collaboration & Contribution:
 
 - <p>I am actively seeking opportunities for collaboration, particularly in the realm of <b>[Web Developement]</b>.</p>
