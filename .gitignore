@@ -1,0 +1,50 @@
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+*.crt
+config.json
+secrets.json
+# Allow the safe sample
+!.env.sample
+
+# Dependencies
+## Node / JS / TS
+node_modules/
+bower_components/
+
+## Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+## Go
+bin/
+pkg/
+*.test
+
+# Build / cache
+dist/
+build/
+.cache/
+.next/
+.out/
+coverage/
+
+# Logs & temp
+*.log
+*.tmp
+*.swp
+*.pid
+*.pid.lock
+
+# IDE / OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
