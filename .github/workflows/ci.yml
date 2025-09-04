@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "Checkout Code"
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: "Set up Python"
         uses: actions/setup-python@v5
       - name: "Run pre-commit hooks"
@@ -34,7 +34,7 @@ jobs:
     needs: [local-checks]
     steps:
       - name: "Checkout Code"
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
       - name: "Lint Code Base"
@@ -48,7 +48,7 @@ jobs:
     needs: [local-checks]
     steps:
       - name: "Checkout Code"
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: "Detect secrets with TruffleHog"
         uses: trufflesecurity/trufflehog@v3
         with:
