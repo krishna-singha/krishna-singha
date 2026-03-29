@@ -18,9 +18,6 @@
 <a href="mailto:krishnasingha.dev@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="35" alt="Gmail"/>
 </a>
-<a href="https://www.instagram.com/krishna___singha">
-  <img src="https://skillicons.dev/icons?i=instagram" width="35" alt="Instagram"/>
-</a>
 
 <br />
 <br />
