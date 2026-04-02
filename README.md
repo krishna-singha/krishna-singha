@@ -4,7 +4,7 @@
 
   # 👋 Hi, I'm Krishna Singha
 
-  ### Developer • Tech Enthusiast • Student @ IIT Kharagpur 🇮🇳
+  ### Developer • Student @ IIT Kharagpur 🇮🇳
 
 </div>
 
